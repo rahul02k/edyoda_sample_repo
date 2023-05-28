@@ -1,1 +1,3 @@
-# edyoda_sample_repo
+# Explaining sample usage of readme
+
+# Creating commit id
